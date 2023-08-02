@@ -12,7 +12,8 @@ export default defineConfig({
             "@components": path.join(__dirname, "./src/components"),
             "@routes": path.join(__dirname, "./src/routes"),  
             "@pages": path.join(__dirname, "./src/pages"),
-            "@store": path.join(__dirname, "./src/store")
+            "@store": path.join(__dirname, "./src/store"),
+            "@utils": path.join(__dirname, "./src/utils"),
         }
     },
     clearScreen: false,

@@ -23,9 +23,11 @@
     "@fontsource/inter": "^5.0.5",
     "@fontsource/lato": "^5.0.5",
     "@fontsource/work-sans": "^5.0.5",
+    "@iconscout/unicons": "^4.0.8",
     "@solidjs/router": "^0.8.2",
     "solid-js": "latest",
-    "solid-start": "^0.2.30"
+    "solid-start": "^0.2.30",
+    "uid": "^2.0.2"
   },
   "scripts": {
     "dev": "vite",
